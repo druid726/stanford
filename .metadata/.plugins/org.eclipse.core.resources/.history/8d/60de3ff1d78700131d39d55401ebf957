@@ -1,0 +1,23 @@
+/*
+ * File: Hailstone.java
+ * Name: 
+ * Section Leader: 
+ * --------------------
+ * This file is the starter file for the Hailstone problem.
+ */
+
+import acm.program.*;
+
+public class Hailstone extends ConsoleProgram {
+	public void run() {
+		/* You fill this in */
+		int n = readInt("Please input a number: ");
+		if n is even (True) {
+			n = n / 2;
+		} else {
+			n = 3n + 1;
+		}
+	}
+}
+
+

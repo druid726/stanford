@@ -1,0 +1,51 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.101.r362_v20101117-0800,"org.eclipse.ltk.core.refactoring",1390265094020
+started,bundle,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring",1390265094022
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.4.2.v20100902-0100-e3x,"org.eclipse.mylyn.bugzilla.core",1390265094022
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1390265094023
+started,bundle,org.eclipse.mylyn.commons.net,3.4.1.v20100625-2100-e3x,"org.eclipse.mylyn.commons.net",1390265094023
+started,bundle,org.eclipse.mylyn.commons.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.commons.ui",1390265094024
+started,bundle,org.eclipse.mylyn.context.core,3.4.1.v20100909-0100-e3x,"org.eclipse.mylyn.context.core",1390265094024
+started,bundle,org.eclipse.mylyn.context.ui,3.4.2.v20110131-0100-e3x,"org.eclipse.mylyn.context.ui",1390265094025
+started,bundle,org.eclipse.mylyn.monitor.ui,3.4.1.v20110131-0100-e3x,"org.eclipse.mylyn.monitor.ui",1390265094025
+started,bundle,org.eclipse.mylyn.tasks.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.tasks.ui",1390265094026
+started,bundle,org.eclipse.mylyn.team.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.team.ui",1390265094027
+started,bundle,org.eclipse.search,3.6.0.v20100520-0800,"org.eclipse.search",1390265094028
+started,bundle,org.eclipse.team.core,3.5.101.R36x_v20110203-1036,"org.eclipse.team.core",1390265094029
+started,bundle,org.eclipse.team.cvs.core,3.3.301.R36x_v20110119-0815,"org.eclipse.team.cvs.core",1390265094030
+started,bundle,org.eclipse.team.cvs.ui,3.3.302.R36x_v20110203-1036,"org.eclipse.team.cvs.ui",1390265094032
+started,bundle,org.eclipse.team.ui,3.5.102.R36x_v20110203-1036,"org.eclipse.team.ui",1390265094033
+started,bundle,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui",1390265094034
+started,bundle,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console",1390265094035
+started,bundle,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.editors",1390265094035
+started,bundle,org.eclipse.ui.forms,3.5.2.r36_v20100702,"org.eclipse.ui.forms",1390265094036
+started,bundle,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.ide",1390265094037
+started,bundle,org.eclipse.ui.net,1.2.100.I20100505-1245,"org.eclipse.ui.net",1390265094038
+started,bundle,org.eclipse.ui.views,3.5.1.M20110202-0800,"org.eclipse.ui.views",1390265094038
+started,bundle,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"org.eclipse.ui.workbench",1390265094038
+started,bundle,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.workbench.texteditor",1390265094039
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1390265094040
+started,bundle,org.eclipse.update.core,3.2.402.R36x_v20100629,"org.eclipse.update.core",1390265094040
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1390265094041
+started,bundle,edu.stanford.cs106,1.0.0,"edu.stanford.cs106",1390265094041
+os,sysinfo,,,"macosx",1390265094043
+arch,sysinfo,,,"x86",1390265094043
+ws,sysinfo,,,"cocoa",1390265094043
+locale,sysinfo,,,"en_US",1390265094043
+processors,sysinfo,,,"4",1390265094043
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1390265094043
+java.runtime.version,sysinfo,,,"1.6.0_65-b14-462-11M4609",1390265094043
+java.specification.name,sysinfo,,,"Java Platform API Specification",1390265094043
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1390265094043
+java.specification.version,sysinfo,,,"1.6",1390265094043
+java.vendor,sysinfo,,,"Apple Inc.",1390265094043
+java.version,sysinfo,,,"1.6.0_65",1390265094043
+java.vm.info,sysinfo,,,"mixed mode",1390265094043
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1390265094043
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1390265094043
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1390265094043
+java.vm.specification.version,sysinfo,,,"1.0",1390265094043
+java.vm.vendor,sysinfo,,,"Apple Inc.",1390265094043
+java.vm.version,sysinfo,,,"20.65-b04-462",1390265094043
+started,bundle,org.eclipse.epp.usagedata.ui,1.3.1.R201102081640,"org.eclipse.epp.usagedata.ui",1390265095053
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390265095240
